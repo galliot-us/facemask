@@ -1,6 +1,10 @@
 # Face Mask Detection Application
 Face-Mask is an open-source application that can detect and classify faces them to Face and Mask classes. The application is capable to run at x86, Coral Dev Board TPU, and amd64 node with attached usb edge TPU.
 
+You can learn more about this project here:
+* https://neuralet.com/face-mask-detection-at-the-edge/
+* https://neuralet.com/article/real-time-face-mask-detection-part-one/
+* https://neuralet.com/article/a-practical-solution-to-real-world-face-mask-detection-part-2/
 
 ## Getting Started
 The following instructions will help you get started.
